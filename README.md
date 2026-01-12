@@ -5,7 +5,7 @@ A MVP android application which is able to estimate the position of a user withi
 ## Setting up
 
 * [Install](http://example.com/) Android Studio
-* Clone or Download project from this url http://github.com/ajnas/wifips
+* Clone or Download project from this url http://github.com/kainat632/wifips
 * From Android Studio, click on Open project and select the android-client folder inside the downloaded project.
 
 ## Testing the App
