@@ -46,7 +46,6 @@ A MVP android application which is able to estimate the position of a user withi
 
 ## Developers
 
-[Ajnas](https://github.com/ajnas) and [Jazeem](https://github.com/jazeem). Feel free to contact us in case of any issue while setting up/testing. 
+[Kainat](https://github.com/kainat632). Feel free to contact us in case of any issue while setting up/testing. 
 
-## Developed By
-Kainat 
+
